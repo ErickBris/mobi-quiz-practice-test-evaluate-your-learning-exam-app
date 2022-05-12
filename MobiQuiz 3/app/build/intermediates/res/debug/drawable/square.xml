@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item> 
+    <shape android:shape="rectangle">
+      <solid android:color="#B2E3FA" /> 
+      
+       <size
+        android:width="40dp"
+        android:height="40dp"
+        />
+    </shape>
+  </item>
+</layer-list>
+
+
+<!-- From: file:/Users/cloudfuze/Desktop/MobiQuiz%203/app/src/main/res/drawable/square.xml -->

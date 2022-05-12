@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="@color/theme_color"/>
+    
+</shape><!-- From: file:/Users/cloudfuze/Desktop/MobiQuiz%203/app/src/main/res/drawable/button_circle.xml -->
